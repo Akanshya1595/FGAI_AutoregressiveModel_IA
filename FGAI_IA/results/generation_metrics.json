@@ -1,0 +1,362 @@
+[
+  {
+    "distinct1": 0.6428571428571429,
+    "distinct2": 0.926829268292683,
+    "repeat_trigram": 0.0,
+    "max_word_run": 2,
+    "bigram_validity": 0.9512195121951219,
+    "model": "SimpleRNN",
+    "seed_id": 0,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.8666666666666667,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.75,
+    "model": "SimpleRNN",
+    "seed_id": 0,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.9333333333333333,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.3409090909090909,
+    "model": "SimpleRNN",
+    "seed_id": 0,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.5681818181818182,
+    "distinct2": 0.813953488372093,
+    "repeat_trigram": 0.0714285714285714,
+    "max_word_run": 1,
+    "bigram_validity": 0.9534883720930233,
+    "model": "SimpleRNN",
+    "seed_id": 1,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.8,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.8181818181818182,
+    "model": "SimpleRNN",
+    "seed_id": 1,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.9333333333333333,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.3181818181818182,
+    "model": "SimpleRNN",
+    "seed_id": 1,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.6923076923076923,
+    "distinct2": 0.9473684210526315,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.8947368421052632,
+    "model": "SimpleRNN",
+    "seed_id": 2,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.7441860465116279,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.8333333333333334,
+    "model": "SimpleRNN",
+    "seed_id": 2,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.8409090909090909,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.46511627906976744,
+    "model": "SimpleRNN",
+    "seed_id": 2,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.6744186046511628,
+    "distinct2": 0.9523809523809523,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.9523809523809523,
+    "model": "BiRNN",
+    "seed_id": 0,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.8571428571428571,
+    "distinct2": 0.975609756097561,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.7804878048780488,
+    "model": "BiRNN",
+    "seed_id": 0,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.8260869565217391,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.4444444444444444,
+    "model": "BiRNN",
+    "seed_id": 0,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.5909090909090909,
+    "distinct2": 0.813953488372093,
+    "repeat_trigram": 0.0714285714285714,
+    "max_word_run": 1,
+    "bigram_validity": 0.9767441860465116,
+    "model": "BiRNN",
+    "seed_id": 1,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.85,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.8717948717948718,
+    "model": "BiRNN",
+    "seed_id": 1,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.8636363636363636,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.5581395348837209,
+    "model": "BiRNN",
+    "seed_id": 1,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.625,
+    "distinct2": 0.8205128205128205,
+    "repeat_trigram": 0.10526315789473684,
+    "max_word_run": 1,
+    "bigram_validity": 0.9487179487179487,
+    "model": "BiRNN",
+    "seed_id": 2,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.7435897435897436,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.8157894736842105,
+    "model": "BiRNN",
+    "seed_id": 2,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.9318181818181818,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.3953488372093023,
+    "model": "BiRNN",
+    "seed_id": 2,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.5581395348837209,
+    "distinct2": 0.9285714285714286,
+    "repeat_trigram": 0.024390243902439046,
+    "max_word_run": 1,
+    "bigram_validity": 0.9523809523809523,
+    "model": "LSTM",
+    "seed_id": 0,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.8409090909090909,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.6976744186046512,
+    "model": "LSTM",
+    "seed_id": 0,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.9130434782608695,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.5111111111111111,
+    "model": "LSTM",
+    "seed_id": 0,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.5681818181818182,
+    "distinct2": 0.9069767441860465,
+    "repeat_trigram": 0.0,
+    "max_word_run": 2,
+    "bigram_validity": 0.9302325581395349,
+    "model": "LSTM",
+    "seed_id": 1,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.7333333333333333,
+    "distinct2": 0.9772727272727273,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.8181818181818182,
+    "model": "LSTM",
+    "seed_id": 1,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.8478260869565217,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.4888888888888889,
+    "model": "LSTM",
+    "seed_id": 1,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.5813953488372093,
+    "distinct2": 0.9047619047619048,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.9047619047619048,
+    "model": "LSTM",
+    "seed_id": 2,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.8095238095238095,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.8780487804878049,
+    "model": "LSTM",
+    "seed_id": 2,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.8636363636363636,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.3953488372093023,
+    "model": "LSTM",
+    "seed_id": 2,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.6046511627906976,
+    "distinct2": 0.8809523809523809,
+    "repeat_trigram": 0.07317073170731703,
+    "max_word_run": 1,
+    "bigram_validity": 0.9047619047619048,
+    "model": "GRU",
+    "seed_id": 0,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.7948717948717948,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.7368421052631579,
+    "model": "GRU",
+    "seed_id": 0,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.9545454545454546,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.3953488372093023,
+    "model": "GRU",
+    "seed_id": 0,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.5813953488372093,
+    "distinct2": 0.9047619047619048,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.9761904761904762,
+    "model": "GRU",
+    "seed_id": 1,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.7777777777777778,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.7727272727272727,
+    "model": "GRU",
+    "seed_id": 1,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.9347826086956522,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.4,
+    "model": "GRU",
+    "seed_id": 1,
+    "temperature": 1.5
+  },
+  {
+    "distinct1": 0.5581395348837209,
+    "distinct2": 0.8095238095238095,
+    "repeat_trigram": 0.07317073170731703,
+    "max_word_run": 1,
+    "bigram_validity": 0.9761904761904762,
+    "model": "GRU",
+    "seed_id": 2,
+    "temperature": 0.5
+  },
+  {
+    "distinct1": 0.75,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.7674418604651163,
+    "model": "GRU",
+    "seed_id": 2,
+    "temperature": 1.0
+  },
+  {
+    "distinct1": 0.9534883720930233,
+    "distinct2": 1.0,
+    "repeat_trigram": 0.0,
+    "max_word_run": 1,
+    "bigram_validity": 0.4523809523809524,
+    "model": "GRU",
+    "seed_id": 2,
+    "temperature": 1.5
+  }
+]

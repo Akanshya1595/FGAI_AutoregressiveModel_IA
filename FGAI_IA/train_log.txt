@@ -1,0 +1,124 @@
+{
+  "characters": 1115394,
+  "lines": 40001,
+  "tokens_after_preprocessing": 290145,
+  "unique_tokens_before_vocab_cap": 12380,
+  "vocab_size_used": 5000,
+  "unk_rate": 0.03185303899774251,
+  "top_20_tokens": [
+    [
+      "<nl>",
+      40000
+    ],
+    [
+      ",",
+      19846
+    ],
+    [
+      ":",
+      10316
+    ],
+    [
+      ".",
+      7885
+    ],
+    [
+      "the",
+      6287
+    ],
+    [
+      "and",
+      5690
+    ],
+    [
+      "to",
+      4902
+    ],
+    [
+      "i",
+      4664
+    ],
+    [
+      "of",
+      3759
+    ],
+    [
+      ";",
+      3628
+    ],
+    [
+      "you",
+      3149
+    ],
+    [
+      "my",
+      3120
+    ],
+    [
+      "a",
+      3018
+    ],
+    [
+      "that",
+      2574
+    ],
+    [
+      "?",
+      2462
+    ],
+    [
+      "in",
+      2375
+    ],
+    [
+      "!",
+      2172
+    ],
+    [
+      "is",
+      2080
+    ],
+    [
+      "not",
+      2015
+    ],
+    [
+      "for",
+      1907
+    ]
+  ]
+}
+train/val samples: 261118 29003
+[SimpleRNN] ep1 train 4.931 val 4.636 ppl 103.1 top1 0.266 top5 0.429 t=33s
+[SimpleRNN] ep2 train 4.480 val 4.561 ppl 95.7 top1 0.272 top5 0.440 t=66s
+[SimpleRNN] ep3 train 4.345 val 4.547 ppl 94.3 top1 0.276 top5 0.446 t=99s
+[SimpleRNN] ep4 train 4.185 val 4.502 ppl 90.2 top1 0.278 top5 0.450 t=132s
+[SimpleRNN] ep5 train 4.132 val 4.510 ppl 90.9 top1 0.278 top5 0.452 t=164s
+[SimpleRNN] ep6 train 4.093 val 4.517 ppl 91.5 top1 0.281 top5 0.454 t=195s
+[SimpleRNN] ep7 train 4.022 val 4.504 ppl 90.4 top1 0.283 top5 0.457 t=226s
+[SimpleRNN] ep8 train 3.999 val 4.509 ppl 90.8 top1 0.284 top5 0.458 t=257s
+[BiRNN] ep1 train 4.904 val 4.639 ppl 103.5 top1 0.269 top5 0.427 t=48s
+[BiRNN] ep2 train 4.462 val 4.580 ppl 97.5 top1 0.273 top5 0.439 t=96s
+[BiRNN] ep3 train 4.310 val 4.588 ppl 98.3 top1 0.274 top5 0.443 t=146s
+[BiRNN] ep4 train 4.100 val 4.547 ppl 94.3 top1 0.280 top5 0.449 t=194s
+[BiRNN] ep5 train 4.031 val 4.566 ppl 96.2 top1 0.280 top5 0.453 t=245s
+[BiRNN] ep6 train 3.987 val 4.587 ppl 98.2 top1 0.280 top5 0.452 t=297s
+[BiRNN] ep7 train 3.888 val 4.566 ppl 96.2 top1 0.282 top5 0.456 t=350s
+[BiRNN] ep8 train 3.859 val 4.570 ppl 96.5 top1 0.284 top5 0.456 t=406s
+[LSTM] ep1 train 4.959 val 4.601 ppl 99.5 top1 0.268 top5 0.428 t=45s
+[LSTM] ep2 train 4.437 val 4.482 ppl 88.4 top1 0.278 top5 0.448 t=90s
+[LSTM] ep3 train 4.270 val 4.437 ppl 84.5 top1 0.283 top5 0.454 t=135s
+[LSTM] ep4 train 4.129 val 4.423 ppl 83.3 top1 0.284 top5 0.458 t=178s
+[LSTM] ep5 train 4.071 val 4.428 ppl 83.8 top1 0.286 top5 0.461 t=222s
+[LSTM] ep6 train 4.020 val 4.431 ppl 84.0 top1 0.287 top5 0.463 t=265s
+[LSTM] ep7 train 3.958 val 4.444 ppl 85.1 top1 0.288 top5 0.464 t=310s
+[LSTM] ep8 train 3.934 val 4.453 ppl 85.9 top1 0.288 top5 0.465 t=355s
+[GRU] ep1 train 4.877 val 4.550 ppl 94.7 top1 0.272 top5 0.440 t=48s
+[GRU] ep2 train 4.396 val 4.443 ppl 85.1 top1 0.280 top5 0.454 t=97s
+[GRU] ep3 train 4.224 val 4.421 ppl 83.1 top1 0.283 top5 0.461 t=146s
+[GRU] ep4 train 4.047 val 4.402 ppl 81.6 top1 0.289 top5 0.469 t=196s
+[GRU] ep5 train 3.977 val 4.414 ppl 82.6 top1 0.287 top5 0.469 t=243s
+[GRU] ep6 train 3.922 val 4.424 ppl 83.5 top1 0.288 top5 0.468 t=293s
+[GRU] ep7 train 3.841 val 4.427 ppl 83.7 top1 0.289 top5 0.470 t=345s
+[GRU] ep8 train 3.811 val 4.434 ppl 84.2 top1 0.290 top5 0.471 t=396s
+DONE
